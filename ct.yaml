@@ -21,4 +21,3 @@ spec:
     - name: exit
       image: busybox
       script: echo exit
-      
