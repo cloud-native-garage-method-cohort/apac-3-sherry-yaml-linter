@@ -14,7 +14,7 @@ spec:
     outputs:
       resources:
         - name: build-sources
-          type: ubuntu
+        type: ubuntu
   steps:
     - name: build-sources
       image: ubuntu
